@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32mm"
+   height="32mm"
+   viewBox="0 0 31.999999 32"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="favicon.svg"
+   shape-rendering="crispEdges"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="false"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="4.394379"
+     inkscape:cx="53.363627"
+     inkscape:cy="66.107179"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showborder="true" />
+  <defs
+     id="defs2">
+    <rect
+       x="241.36748"
+       y="209.8288"
+       width="351.43106"
+       height="340.48907"
+       id="rect6460" />
+    <rect
+       x="241.36748"
+       y="209.8288"
+       width="351.43106"
+       height="340.48907"
+       id="rect6460-8" />
+  </defs>
+  <g
+     inkscape:label="Vrstva 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-62.046023,-34.870929)">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.53768361,0,0,0.83591987,-62.568761,-128.33242)"
+       id="text6458-4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.1583px;line-height:1.25;font-family:'Franklin Gothic Heavy';-inkscape-font-specification:'Franklin Gothic Heavy, ';white-space:pre;shape-inside:url(#rect6460-8);fill:#ff3333;fill-opacity:1;stroke:none"><tspan
+         x="241.36719"
+         y="233.03322"
+         id="tspan6431"><tspan
+           style="font-family:Magneto;-inkscape-font-specification:Magneto;fill:#ff0505"
+           id="tspan6427">.</tspan><tspan
+           style="font-family:Magneto;-inkscape-font-specification:Magneto;fill:#008ce4"
+           id="tspan6429">RU</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.33909115,0,0,0.58774642,-19.907511,-93.788673)"
+       id="text6458"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';white-space:pre;shape-inside:url(#rect6460);fill:#db0000;fill-opacity:1;stroke:none"><tspan
+         x="241.36719"
+         y="246.72266"
+         id="tspan6435"><tspan
+           style="font-family:Magneto;-inkscape-font-specification:Magneto;fill:#ff0707"
+           id="tspan6433">RaR</tspan></tspan></text>
+  </g>
+</svg>
